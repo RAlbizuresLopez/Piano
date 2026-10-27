@@ -25,3 +25,10 @@ Guardar tempo inicial/final solo si se midió, errores específicos y ayuda usad
 - Si se dispone de Piano 1024 usar sonido/metrónomo; Music Block para partitura/reproducción. Si no, dar alternativa y reconocer la limitación.
 - Para pruebas de oído no revelar respuestas ni pistas visuales antes del intento; con pistas, clasificar como práctica asistida.
 - Ante dolor, detener práctica; no evaluar tensión/postura solo con texto o MIDI.
+
+## Ejercicios rítmicos con audio
+- Cuando sea útil, generar un WAV de metrónomo o percusión mediante síntesis programática (por ejemplo Python) y ofrecerlo para reproducción; verificar que el archivo existe antes de enlazarlo.
+- Especificar BPM, compás, subdivisión, número de compases y pulsos de preparación. Usar acentos diferenciados y silencios reales; evitar contar verbalmente la solución durante una prueba.
+- Modos: imitación (escuchar y reproducir), lectura (partitura antes del audio; no reproducir antes del primer intento a primera vista), dictado (audio sin patrón visual), y sincronización con pulso.
+- Para evaluar estabilidad y aceleración, pedir grabación de palmadas/interpretación; no atribuir precisión al alumno solo por haber reproducido un audio.
+- Guardar patrón y solución separados del archivo de estímulo; permitir tempo más lento y repetir si es práctica, indicando la ayuda.
