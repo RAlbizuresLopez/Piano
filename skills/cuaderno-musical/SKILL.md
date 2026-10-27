@@ -25,3 +25,12 @@ No almacenar secretos ni datos sensibles innecesarios. Confirmar commit y ruta t
 - Si se dispone de Piano 1024 usar sonido/metrónomo; Music Block para partitura/reproducción. Si no, dar alternativa y reconocer la limitación.
 - Para pruebas de oído no revelar respuestas ni pistas visuales antes del intento; con pistas, clasificar como práctica asistida.
 - Ante dolor, detener práctica; no evaluar tensión/postura solo con texto o MIDI.
+
+## Traspaso entre conversaciones
+- El repositorio es el registro persistente; no depender de un único chat extenso.
+- Cuando el alumno quiera cambiar de chat, se complete una unidad o la conversación sea difícil de navegar, preparar un resumen de traspaso. Guardarlo en `sesiones/AAAA-MM-DD-traspaso-TEMA.md` con sufijo único si la ruta existe.
+- Incluir objetivo de la clase, bloque actual, evidencias reales por competencia, dudas resueltas, dificultades, ejercicio pendiente sin revelar solución, materiales y siguiente paso.
+- Proponer título para el nuevo chat y mensaje breve de reanudación que mencione la ruta guardada.
+- Leer el traspaso y el estado de progreso al iniciar la conversación siguiente, cuando estén accesibles.
+- Confirmar ruta y commit del guardado. Si falla, entregar el resumen listo para copiar y decir que no quedó persistido.
+- Cambiar de conversación no equivale necesariamente a cerrar la sesión; no registrar progreso no observado ni inventar ejercicios completados.
