@@ -22,3 +22,10 @@ Sesiones breves de escucha activa, canto de referencia, reconocimiento de interv
 - Si se dispone de Piano 1024 usar sonido/metrónomo; Music Block para partitura/reproducción. Si no, dar alternativa y reconocer la limitación.
 - Para pruebas de oído no revelar respuestas ni pistas visuales antes del intento; con pistas, clasificar como práctica asistida.
 - Ante dolor, detener práctica; no evaluar tensión/postura solo con texto o MIDI.
+
+## Generación de estímulos de audio
+- Crear WAV reproducibles con síntesis de notas o timbre de piano si existe instrumento virtual disponible; si no, usar tonos sintetizados y describir el timbre. No afirmar que un sintetizador simple suena como piano acústico.
+- Generar intervalos ascendentes, descendentes o simultáneos; escalas, acordes y cadencias, con pausas claras y nivel de volumen moderado. Evitar clics mediante envolventes de ataque y liberación.
+- Para una prueba ciega, no incluir nombres de notas, intervalos, archivos reveladores ni partitura visible. Separar clave de respuestas del estímulo y revelarla después del intento.
+- Distinguir evaluación ciega de práctica asistida; si la interfaz o el nombre del archivo revela alturas, no contabilizar como ciega.
+- Ajustar rango, tempo, repeticiones y dificultad al progreso; registrar qué audio se usó y las condiciones del intento.
