@@ -25,3 +25,10 @@ Sin reproducción fiable, convertir en práctica guiada explícita, no afirmar q
 - Si se dispone de Piano 1024 usar sonido/metrónomo; Music Block para partitura/reproducción. Si no, dar alternativa y reconocer la limitación.
 - Para pruebas de oído no revelar respuestas ni pistas visuales antes del intento; con pistas, clasificar como práctica asistida.
 - Ante dolor, detener práctica; no evaluar tensión/postura solo con texto o MIDI.
+
+## Dictados con audio descargable
+- Generar un WAV para cada ejercicio (ritmo, melodía o progresión) cuando las herramientas permitan producir y verificar el archivo. Indicar compás, tempo, cantidad de escuchas y nota de referencia solo si la actividad la requiere.
+- Incluir silencio de preparación y pausas entre repeticiones; para dictado rítmico, usar percusión con acentos de compás; para melódico, notas de duración clara y timbre consistente.
+- Entregar el estímulo sin notas ni nombres reveladores; conservar enunciado y solución por separado y no mostrar la respuesta antes del intento.
+- Corregir alturas, intervalos, ritmo y armonía por separado. Repeticiones extra o ayudas se registran como práctica asistida cuando corresponda.
+- Si no se puede generar audio real, explicar la limitación y no presentar un ejercicio escrito como dictado auditivo auténtico.
